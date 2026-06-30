@@ -33,6 +33,9 @@ Undergraduate and graduate researcher at **Hansung University** (Industrial Engi
 - **Excellence Award (작품우수상)**, Hansung University Capstone Design (2025)
 *PRIS-RHP: Patch-Review Interaction Semantics for Review Helpfulness Prediction — multimodal deep learning model outperforming text-only and metadata-only baselines (RMSE 0.367)*
 
+## 💻 Projects
+
+
 ## 📫 Contact
 
 [![Naver Mail](https://img.shields.io/badge/Naver%20Mail-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:your-id@naver.com)
