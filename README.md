@@ -29,7 +29,7 @@ Undergraduate researcher at Hansung University (Industrial Engineering · Big Da
 
 ## 🧪 Research Projects
 - **KAIST** — Center for Global Bio-integrated Interfacing Materials (RS-2024-00406240)
-  *Participating Researcher*, Jul 2026 ~ Aug 2026 · National R&D project
+  *Participating Researcher* · Jul 2026 ~ Aug 2026 · National R&D project
 
 ## 💻 Projects
 - **DB Bridge — Natural-Language Panel Extraction System** (Pre-Capstone · Industry-linked, 2025-2)
