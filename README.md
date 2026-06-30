@@ -1,100 +1,44 @@
-<!--
-  GitHub Profile README
-  jonghwa-8620/jonghwa-8620 레포의 README.md 에 붙여넣으세요.
-  your-email 부분만 본인 이메일로 바꿔주세요. (아이디는 jonghwa-8620 로 입력 완료)
--->
+Jonghwa Park (박종화)
 
-<div align="center">
+Deep Learning Researcher · Computer Vision & Explainable AI
 
-# 👨‍💻 Jonghwa Park (박종화)
+Undergraduate and graduate researcher at Hansung University (Industrial Engineering · Bigdata Track), under Prof. Seoung-Ho Choi. I work on deep learning for computer vision — designing CNN / Transformer / Graph architectures for image classification and making them interpretable with explainable AI (XAI).
 
-<a href="https://github.com/jonghwa-8620">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=002F6C&center=true&vCenter=true&width=540&lines=Deep+Learning+%C2%B7+Computer+Vision+%C2%B7+Explainable+AI" alt="Typing header"/>
-</a>
+About
 
-<a href="https://orcid.org/0009-0007-2050-9401">
-  <img src="https://img.shields.io/badge/ORCID-0009--0007--2050--9401-002F6C?style=flat&logo=orcid&logoColor=white" alt="ORCID"/>
-</a>
-<img src="https://img.shields.io/badge/Hansung_University-Industrial_Engineering-002F6C?style=flat" alt="University"/>
 
-</div>
+Architectures: EfficientNetV2 backbones with attention (CBAM), KAN, graph reasoning, and knowledge distillation
+Multiple first-author papers under review at Engineering Applications of Artificial Intelligence (EAAI, Q1)
+Focus on trustworthy XAI — Grad-CAM, Score-CAM, LIME, attention attribution
+Also experienced in multimodal / NLP deep learning
 
----
 
-## 👋 About Me
+Awards and Selected Projects
 
-Undergraduate & graduate researcher at **Hansung University** (Industrial Engineering · Bigdata Track), under **Prof. Seoung-Ho Choi**. I work on **deep learning for computer vision** — designing CNN / Transformer / Graph architectures for image classification and making them interpretable with **explainable AI (XAI)**.
+PRIS-RHP — Hansung University Capstone Design, Excellence Award (작품우수상)
 
-- 🔬 Architectures: EfficientNetV2 backbones + attention (CBAM), KAN, graph reasoning, knowledge distillation
-- 📄 Multiple first-author papers under review at *Engineering Applications of Artificial Intelligence* (**EAAI**, Q1)
-- 🔍 Focus on **trustworthy XAI** — Grad-CAM, Score-CAM, LIME, attention attribution
-- 🧪 Also experienced in **multimodal / NLP deep learning** (see award-winning capstone below)
+Multimodal deep learning for Steam review helpfulness prediction. Fuses BGE text embeddings of reviews and patch notes with hand-crafted linguistic and reviewer-metadata features through a Deep Pyramid MLP. Outperforms text-only and metadata-only baselines (RMSE 0.367).
 
----
+Repository: https://github.com/shinurim/PRIS-Framework
 
-## 🏆 Awards & Selected Projects
+Computer Vision Research
 
-**🥇 PRIS-RHP — Hansung University Capstone Design · Excellence Award (작품우수상)**
+First-author papers under peer review — code released upon publication.
 
-Multimodal deep learning for **Steam review helpfulness prediction**. Fuses BGE text embeddings of reviews & patch notes (interaction via element-wise product/difference) with hand-crafted linguistic and reviewer-metadata features through a Deep Pyramid MLP. Outperforms text-only and metadata-only baselines (**RMSE 0.367**).
+ProjectMethodAccuracyDGT-NetDense Graph-Transformer + Token Graph Reasoning (k-NN + GAT)0.957 / 0.915SAFE-KDNetDual-path self-distillation (Dense Transformer + Sparse KAN-GNN)0.917 / 0.888DB-CKDFourier-KAN Teacher to CNN Student distillation (88 FPS)0.874
 
-🔗 [github.com/shinurim/PRIS-Framework](https://github.com/shinurim/PRIS-Framework)
+Application: fine-grained visual disease/pest diagnosis under severe visual ambiguity, with quantitative XAI faithfulness verification.
 
----
+Technical Skills
 
-## 📚 Computer Vision Research
 
-> First-author papers under peer review — code released upon publication.
+Languages and Frameworks: Python, PyTorch, Hugging Face Transformers
+Libraries: NumPy, Pandas, scikit-learn, OpenCV
+Tools: LaTeX, Linux, Git
 
-| Project | Method | Accuracy |
-|---------|--------|----------|
-| **DGT-Net** | Dense Graph-Transformer + Token Graph Reasoning (k-NN + GAT) | 0.957 / 0.915 |
-| **SAFE-KDNet** | Dual-path self-distillation (Dense Transformer + Sparse KAN-GNN) | 0.917 / 0.888 |
-| **DB-CKD** | Fourier-KAN Teacher → CNN Student distillation · 88 FPS | 0.874 |
 
-*Application:* fine-grained visual disease/pest diagnosis under severe visual ambiguity, with quantitative XAI faithfulness verification.
+Contact
 
----
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-002F6C?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-002F6C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Transformers-002F6C?style=for-the-badge&logo=huggingface&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-002F6C?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-002F6C?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-002F6C?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-002F6C?style=for-the-badge&logo=opencv&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-002F6C?style=for-the-badge&logo=latex&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-002F6C?style=for-the-badge&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-002F6C?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=jonghwa-8620&show_icons=true&hide_border=true&hide=stars&title_color=002F6C&icon_color=002F6C" alt="stats"/>
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=jonghwa-8620&hide_border=true&ring=002F6C&fire=002F6C&currStreakLabel=002F6C" alt="streak"/>
-
-</div>
-
----
-
-## 📫 Connect
-
-<div align="center">
-
-<a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/Email-002F6C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://orcid.org/0009-0007-2050-9401">
-  <img src="https://img.shields.io/badge/ORCID-002F6C?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/>
-</a>
-
-</div>
+Email: your-email@example.com
+ORCID: https://orcid.org/0009-0007-2050-9401
