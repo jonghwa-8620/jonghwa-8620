@@ -28,8 +28,8 @@ Undergraduate researcher at Hansung University (Industrial Engineering · Big Da
 *PRIS-RHP: Patch-Review Interaction Semantics for Review Helpfulness Prediction — multimodal deep learning model outperforming text-only and metadata-only baselines (RMSE 0.367)*
 
 ## 🧪 Research Projects
-- ![KAIST](https://img.shields.io/badge/KAIST-004191?style=flat-square&logoColor=white) **Center for Global Bio-integrated Interfacing Materials** (RS-2024-00406240)
-  *Participating Researcher*, Jul 2026 ~ Aug 2026
+- **KAIST** — Center for Global Bio-integrated Interfacing Materials (RS-2024-00406240)
+  *Participating Researcher*, Jul 2026 ~ Aug 2026 · National R&D project
 
 ## 💻 Projects
 - **DB Bridge — Natural-Language Panel Extraction System** (Pre-Capstone · Industry-linked, 2025-2)
