@@ -47,5 +47,5 @@ Multimodal deep learning for **Steam review helpfulness prediction**. Fuses BGE 
 
 ## 📫 Contact
 
-- 📧 your-email@example.com
+- 📧 jong8620@naver.com
 - 🆔 ORCID: https://orcid.org/0009-0007-2050-9401
