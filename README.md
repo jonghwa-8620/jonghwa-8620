@@ -1,9 +1,3 @@
-<!--
-  GitHub Profile README — PRISM-AILAB style (static, academic)
-  jonghwa-8620/jonghwa-8620 레포의 README.md 에 붙여넣으세요.
-  [대괄호] 와 your-email / FILL 부분만 본인 정보로 채워주세요.
--->
-
 👋 **Hi, I'm Jonghwa Park (박종화)**
 
 Undergraduate and graduate researcher at **Hansung University** (Industrial Engineering · Bigdata Track), advised by **Prof. Seoung-Ho Choi**. I specialize in **Computer Vision**, **Explainable AI (XAI)**, and **Deep Learning architecture design**, building interpretable models for image classification and verifying their reliability through quantitative XAI.
