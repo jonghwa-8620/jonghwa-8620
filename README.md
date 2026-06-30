@@ -27,6 +27,10 @@ Undergraduate researcher at Hansung University (Industrial Engineering · Big Da
 - **Excellence Award (작품우수상)**, Hansung University Capstone Design (2026)
 *PRIS-RHP: Patch-Review Interaction Semantics for Review Helpfulness Prediction — multimodal deep learning model outperforming text-only and metadata-only baselines (RMSE 0.367)*
 
+## 🧪 Research Projects
+- **Center for Global Bio-integrated Interfacing Materials** (RS-2024-00406240) — *Participating Researcher*, Jul 2026 ~ Aug 2026
+  National R&D project hosted by KAIST.
+
 ## 💻 Projects
 - **DB Bridge — Natural-Language Panel Extraction System** (Pre-Capstone · Industry-linked, 2025-2)
 RAG and prompt engineering: embedded domain documents with the Korean-specialized **KURE-v1** model, built a vector DB, and designed prompts converting natural-language queries into structured **SQL / Opinion / Main / Sub** forms. *Stack:* Python, GPT-4o / Claude, KURE-v1, PostgreSQL + pgvector. [🔗 repo](https://github.com/hansung-sw-capstone-2025-2/2025_8_B_Experiment)
