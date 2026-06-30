@@ -29,7 +29,7 @@ Undergraduate and graduate researcher at **Hansung University** (Industrial Engi
 
 ## 💻 Projects
 - **DB Bridge — Natural-Language Panel Extraction System** (Pre-Capstone · Industry-linked, 2025-2)
-RAG and prompt engineering: embedded domain documents with the Korean-specialized **KURE-v1** model, built a vector DB (300-token chunks / 30-token overlap), and designed prompts converting natural-language queries into structured **SQL / Opinion / Main / Sub** forms. *Stack:* Python, GPT-4o / Claude, KURE-v1, PostgreSQL + pgvector. [🔗 repo](https://github.com/hansung-sw-capstone-2025-2/2025_8_B_Experiment)
+RAG and prompt engineering: embedded domain documents with the Korean-specialized **KURE-v1** model, built a vector DB, and designed prompts converting natural-language queries into structured **SQL / Opinion / Main / Sub** forms. *Stack:* Python, GPT-4o / Claude, KURE-v1, PostgreSQL + pgvector. [🔗 repo](https://github.com/hansung-sw-capstone-2025-2/2025_8_B_Experiment)
 
 ## 📫 Contact
 
