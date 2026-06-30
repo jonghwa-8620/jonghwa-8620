@@ -1,20 +1,9 @@
-## Hi there 👋
-
 <!--
-**jonghwa-8620/jonghwa-8620** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  GitHub Profile README
+  사용법: 본인 username과 똑같은 이름의 repo(jonghwa-8620/jonghwa-8620)를 만들고
+  이 README.md를 올리면 프로필 상단에 표시됩니다.
+  your-email 부분만 본인 이메일로 바꿔주세요. (아이디는 jonghwa-8620 로 입력 완료)
 -->
-
 
 <div align="center">
 
@@ -87,6 +76,7 @@ Multimodal deep learning for **Steam review helpfulness prediction**. Fuses BGE 
 
 ## 📊 GitHub Activity
 
+<!-- 비공개 레포 위주라면 Settings → "Include private contributions on my profile" 를 켜두세요. -->
 <div align="center">
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=jonghwa-8620&show_icons=true&hide_border=true&hide=stars" alt="stats"/>
