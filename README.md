@@ -1,7 +1,3 @@
-
-  [대괄호] 와 your-email / FILL 부분만 본인 정보로 채워주세요.
--->
-
 👋 **Hi, I'm Jonghwa Park (박종화)**
 
 Undergraduate and graduate researcher at **Hansung University** (Industrial Engineering · Bigdata Track), advised by **Prof. Seoung-Ho Choi**. I specialize in **Computer Vision**, **Explainable AI (XAI)**, and **Deep Learning architecture design**, building interpretable models for image classification and verifying their reliability through quantitative XAI.
@@ -14,6 +10,15 @@ Undergraduate and graduate researcher at **Hansung University** (Industrial Engi
 
 - **Deep Learning Architectures**: Attention mechanisms (CBAM), Kolmogorov-Arnold Networks (KAN), graph reasoning (GNN/GAT), and knowledge distillation; also experienced in multimodal / NLP deep learning
 
+## 🎓 Education & Research
+
+<!-- 정확한 기간(Period)은 본인 이력으로 채워주세요. -->
+| Role | Period | Organization |
+| ---- | ------ | ------------ |
+| Undergraduate / Graduate Researcher | 20XX ~ Present | Hansung University — Industrial Engineering · Bigdata Track |
+| Research Assistant (Advisor: Prof. Seoung-Ho Choi) | 20XX ~ Present | Hansung University |
+| External Participating Researcher | 20XX ~ Present | KAIST Research Project |
+
 ## 📄 Selected Papers
 
 **Submitted** — *Engineering Applications of Artificial Intelligence* (EAAI, Q1)
@@ -22,9 +27,8 @@ Undergraduate and graduate researcher at **Hansung University** (Industrial Engi
 - Park, J., & Choi, S.-H. (2026). *Explainable SAFE-KDNet: A Dual-Path Self-Distilled Deep Learning Framework for Automated Banana Leaf Disease Diagnosis.* (submitted)
 - Park, J., & Choi, S.-H. (2026). *Explainable Dual-Branch Collaborative Knowledge Distillation Framework for Passionfruit Thrips Infestation Diagnosis in Smart Agriculture.* (submitted)
 
-- **Published**
+**Published**
 - Lim, H., Kim, D., Jung, D., **Park, J.**, Li, Q., & Kim, J. (2025). *A Methodology for Predicting Review Helpfulness by Reflecting Consumers' Information Processing.* Journal of Intelligence and Information Systems (지능정보연구), 31(3), 79–100. https://doi.org/10.13088/jiis.2025.31.3.079
-
 
 ## 🏆 Honors and Awards
 
