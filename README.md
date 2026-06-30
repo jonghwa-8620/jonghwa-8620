@@ -1,6 +1,6 @@
 👋 **Hi, I'm Jonghwa Park (박종화)**
 
-Undergraduate and graduate researcher at **Hansung University** (Industrial Engineering · Bigdata Track), advised by **Prof. Seoung-Ho Choi**. I specialize in **Computer Vision**, **Explainable AI (XAI)**, and **Deep Learning architecture design**, building interpretable models for image classification and verifying their reliability through quantitative XAI.
+Undergraduate and graduate researcher at **Hansung University** (Industrial Engineering · Bigdata Track). I specialize in **Computer Vision**, **Explainable AI (XAI)**, and **Deep Learning architecture design**, building interpretable models for image classification and verifying their reliability through quantitative XAI.
 
 ## 🔬 Research Areas
 
