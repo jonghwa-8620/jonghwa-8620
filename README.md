@@ -24,7 +24,7 @@ Undergraduate researcher at Hansung University (Industrial Engineering · Big Da
 
 ## 🏆 Honors and Awards
 
-- **Excellence Award (작품우수상)**, Hansung University Capstone Design (2026)
+- **Excellence Award (작품우수상)**, Hansung University Capstone Design (2026-1)
 *PRIS-RHP: Patch-Review Interaction Semantics for Review Helpfulness Prediction — multimodal deep learning model outperforming text-only and metadata-only baselines (RMSE 0.367)*
 
 ## 💻 Projects
