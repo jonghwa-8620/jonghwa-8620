@@ -18,7 +18,7 @@ Undergraduate researcher at Hansung University (Industrial Engineering · Big Da
 - Park, J., & Choi, S.-H. (2026). *Explainable SAFE-KDNet: A Dual-Path Self-Distilled Deep Learning Framework for Automated Banana Leaf Disease Diagnosis.* (submitted)
 - Park, J., & Choi, S.-H. (2026). *Explainable Dual-Branch Collaborative Knowledge Distillation Framework for Passionfruit Thrips Infestation Diagnosis in Smart Agriculture.* (submitted)
 - Park, J., & Choi, S.-H. (2026). *Explainable Dense STAR-Hybrid Deep Learning Framework for Automated Dragonfruit Disease Diagnosis in Smart Agriculture* (submitted)
-
+- Park, J., & Choi, S.-H. (2026). *A Robust and Explainable Dual-Path Evidential Network for Canine Musculoskeletal Abnormality Diagnosis with Calibrated Uncertainty* (submitted)
 **Published**
 - Lim, H., Kim, D., Jung, D., **Park, J.**, Li, Q., & Kim, J. (2025). *A Methodology for Predicting Review Helpfulness by Reflecting Consumers' Information Processing.* Journal of Intelligence and Information Systems (지능정보연구), 31(3), 79–100. https://doi.org/10.13088/jiis.2025.31.3.079
 
