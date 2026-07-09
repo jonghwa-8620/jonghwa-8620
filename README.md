@@ -37,4 +37,4 @@ RAG and prompt engineering: embedded domain documents with the Korean-specialize
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jonghwa-8620)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-2050-9401)
 
-*Last updated: June 2026*
+*Last updated: July 2026*
