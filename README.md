@@ -14,7 +14,7 @@ Undergraduate researcher at Hansung University (Industrial Engineering · Big Da
 - Lim, H., Kim, D., Jung, D., **Park, J.**, Li, Q., & Kim, J. (2025). *A Methodology for Predicting Review Helpfulness by Reflecting Consumers' Information Processing.* Journal of Intelligent Information Systems (지능정보연구), 31(3), 79–100. https://doi.org/10.13088/jiis.2025.31.3.079
 
 **UnderReview** *(first author; corresponding author: Prof. S.-H. Choi)*
-- **Park, J.**, & Choi, S.-H. (2026). *[Title withheld — manuscript under review].* — Uncertainty-aware evidential deep learning for veterinary imaging.
+- **Park, J.**, & Choi, S.-H. (2026). Uncertainty-aware evidential deep learning for veterinary imaging. Engineering Applications of Artificial Intelligence (EAAI).
 
 **Submitted** *(first author; corresponding author: Prof. S.-H. Choi)*
 - **Park, J.**, & Choi, S.-H. (2026). *Label-Efficient Representation Learning for Visual Disease Classification.* Information Fusion.
