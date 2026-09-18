@@ -13,13 +13,15 @@ Undergraduate researcher at Hansung University (Industrial Engineering · Big Da
 **Published**
 - Lim, H., Kim, D., Jung, D., **Park, J.**, Li, Q., & Kim, J. (2025). *A Methodology for Predicting Review Helpfulness by Reflecting Consumers' Information Processing.* Journal of Intelligent Information Systems (지능정보연구), 31(3), 79–100. https://doi.org/10.13088/jiis.2025.31.3.079
 
-**UnderReview** *(first author; corresponding author: Prof. S.-H. Choi)*
-- **Park, J.**, & Choi, S.-H. (2026). Uncertainty-aware evidential deep learning for veterinary imaging. Engineering Applications of Artificial Intelligence (EAAI).
+**Under Review** *(first author; corresponding author: Prof. S.-H. Choi)*
+- **Park, J.**, & Choi, S.-H. (2026). *Evidential uncertainty estimation for veterinary imaging.* Engineering Applications of Artificial Intelligence (EAAI).
 
 **Submitted** *(first author; corresponding author: Prof. S.-H. Choi)*
-- **Park, J.**, & Choi, S.-H. (2026). *Label-Efficient Representation Learning for Visual Disease Classification.* Information Fusion.
-- **Park, J.**, & Choi, S.-H. (2026). *Instance-Adaptive Multimodal Fusion for Real-World Outcome Prediction.* IEEE Transactions on Knowledge and Data Engineering.
-- **Park, J.**, & Choi, S.-H. (2026). *Cross-Domain Generalization for Visual Recognition.* Engineering Applications of Artificial Intelligence (EAAI).
+- **Park, J.**, & Choi, S.-H. (2026). *Label-efficient representation learning for visual recognition.* Neural Networks.
+- **Park, J.**, & Choi, S.-H. (2026). *Instance-adaptive multimodal fusion for outcome prediction.* IEEE Transactions on Knowledge and Data Engineering (TKDE).
+- **Park, J.**, & Choi, S.-H. (2026). *Generalization to unseen acquisition conditions in visual recognition.* Engineering Applications of Artificial Intelligence (EAAI).
+
+*Manuscript titles withheld at the corresponding author's request while under review.*
 
 ## 🏆 Honors and Awards
 
