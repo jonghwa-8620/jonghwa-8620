@@ -18,8 +18,9 @@ Undergraduate researcher at Hansung University (Industrial Engineering · Big Da
 
 **Submitted** *(first author; corresponding author: Prof. S.-H. Choi)*
 - **Park, J.**, & Choi, S.-H. (2026). *Label-efficient representation learning for visual recognition.* Neural Networks.
-- **Park, J.**, & Choi, S.-H. (2026). *Instance-adaptive multimodal fusion for outcome prediction.* IEEE Transactions on Knowledge and Data Engineering (TKDE).
-- **Park, J.**, & Choi, S.-H. (2026). *Generalization to unseen acquisition conditions in visual recognition.* Engineering Applications of Artificial Intelligence (EAAI).
+- **Park, J.**, & Choi, S.-H. (2026). *Instance-adaptive multimodal fusion for outcome prediction.* IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).
+- **Park, J.**, & Choi, S.-H. (2026). *Label-free screening with vision-language models under false-alarm control.* Engineering Applications of Artificial Intelligence (EAAI).
+- **Park, J.**, & Choi, S.-H. (2026). *Out-of-scope input alerts for cross-domain visual recognition.* Engineering Applications of Artificial Intelligence (EAAI).
 
 *Manuscript titles withheld at the corresponding author's request while under review.*
 
