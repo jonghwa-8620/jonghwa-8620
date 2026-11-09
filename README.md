@@ -1,6 +1,6 @@
 👋 **Hi, I'm Jonghwa Park (박종화)**
 
-Undergraduate researcher at Hansung University (Industrial Engineering · Big Data Track). I specialize in Computer Vision, Explainable AI (XAI), and deep learning architecture design, building interpretable models for image classification and verifying their reliability through quantitative XAI methods. My research is growing toward multimodal learning, vision-language models, and multimodal retrieval.
+Undergraduate researcher at Hansung University (Big Data Track). I work on computer vision and explainable AI, building image classification models that report calibrated uncertainty, flag out-of-scope inputs, and show which regions drive each prediction. I am now moving toward medical image analysis.
 
 ## 🔬 Research Areas
 
